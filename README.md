@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - 
-  <a href="https://sheriffrayan.github.io/PRODIGY_WD_04/" target="_blank">mohammed Rayan portfolio</a><br /><br />
+  <a href="https://sheriffrayan.github.io/Personal-Portfolio/" target="_blank">mohammed Rayan portfolio</a><br /><br />
   <p>Welcome to my portfolio!</p>
 </h2>
 
@@ -20,7 +20,7 @@ This portfolio showcases my projects, skills, and experiences. Feel free to expl
 
 ## Technologies Used
 
-My personal portfolio <a href="https://sheriffrayan.github.io/PRODIGY_WD_04/" target="_blank">Mohammed Rayan ortfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://sheriffrayan.github.io/Personal-Portfolio/" target="_blank">Mohammed Rayan Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
  
